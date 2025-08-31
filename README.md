@@ -2,7 +2,6 @@
 
 一個簡單的 **語意搜尋 (Semantic Search)** Demo，使用 [Sentence Transformers](https://www.sbert.net/) (`all-MiniLM-L6-v2`)。  
 
----
 
 ## 功能
 - 使用 Sentence Transformers 將文件轉換為向量表示
@@ -10,7 +9,6 @@
 - 提供互動式 CLI，可輸入問題查詢最相關的文件
 - 架構簡單，方便擴充（如 PDF/Word/Excel 載入器，或 Web 介面）
 
----
 
 ## 專案結構
 ```text
@@ -23,8 +21,7 @@ mini_semantic_search/
 │   └── sample.txt      # 範例語料庫（每行一個文件）
 ├── .gitignore
 └── .venv/              # 虛擬環境（不會提交到 Git）
-
----
+```
 
 ## 安裝
 ```bash
@@ -49,5 +46,3 @@ python main.py
 cosine similarity 是什麼
 什麼是 RAG
 輸入 q 退出程式。
-
----

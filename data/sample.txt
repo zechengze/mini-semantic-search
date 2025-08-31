@@ -1,0 +1,12 @@
+Python 是一種直譯式的高階程式語言，常見於資料處理與自動化。
+Git 是分散式版本控制系統，常用指令包含 commit、branch、merge、rebase。
+Flask 是一個輕量級的 Web 框架，適合打造 RESTful API。
+Dash 基於 Flask 與 Plotly，擅長快速做出資料儀表板。
+Sentence Transformers 可將文字轉為向量，用於語意搜尋與相似度比對。
+RAG 流程：文件切段、向量化、檢索相關片段，再交給模型生成回答。
+OpenCV 是常用的電腦視覺工具，可進行影像處理與物件偵測。
+字串相似度可用 cosine similarity，向量越接近代表語意越相近。
+Shapely 能做幾何運算與空間查詢；matplotlib 可視覺化結果。
+OrCAD/Allegro 用於電子設計，自原理圖到 PCB 佈局。
+設計模式如 Strategy、Factory 能提升程式可維護性與擴充性。
+LLM、Multimodal、Agent 可針對需求打造專屬應用，包含 prompt engineering 與 fine-tuning。

@@ -13,15 +13,16 @@
 ---
 
 ## 專案結構
+```text
 mini_semantic_search/
-│── main.py # 主程式（語意搜尋核心）
-│── requirements.txt # 相依套件
-│── README.md # 專案說明文件
+│── main.py             # 主程式（語意搜尋核心）
+│── requirements.txt    # 相依套件
+│── README.md           # 專案說明文件
 │
 ├── data/
-│ └── sample.txt # 範例語料庫（每行一個文件）
+│   └── sample.txt      # 範例語料庫（每行一個文件）
 ├── .gitignore
-└── .venv/ # 虛擬環境（不會提交到 Git）
+└── .venv/              # 虛擬環境（不會提交到 Git）
 
 ---
 
